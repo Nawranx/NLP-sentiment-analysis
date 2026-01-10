@@ -2,7 +2,8 @@
 
 A Python-based sentiment analysis system designed to recognize and examine emotional states in airline-related tweets. This project utilizes machine learning techniques to classify text into **Positive**, **Negative**, or **Neutral** polarities.
 
----
+<img width="1891" height="1020" alt="Image" src="https://github.com/user-attachments/assets/402f15aa-81d5-4614-8413-a604431c91c7" />
+<img width="1892" height="1021" alt="Image" src="https://github.com/user-attachments/assets/fd5f90c3-de26-40df-a597-cfdfdd87be05" />
 
 ## 🚀 Features
 - **Triple Model Training**: Evaluates Naive Bayes, SVM, and Logistic Regression to select the best performer.
@@ -60,10 +61,11 @@ Try entering these samples to see the system in action:
 - **Positive**: "The service was amazing and the crew was so helpful! 😍"
 - **Negative**: "My flight was delayed for 5 hours and they lost my luggage. 😡"
 - **Neutral**: "Can someone tell me if flight UA123 has departed yet? 😐"
+- https://github.com/user-attachments/assets/36c1dc0e-a809-4bbf-a4dd-01043eb2d63d
 
 ---
 
 ## 👥 Contributors
-- Mohamed Nawran, Khalid, Mohamed Afrath
+- Mohamed Nawran, Khalid, Mohamed Afrath (mohamednaseermohamedafrath@gmail.com)
 
 
