@@ -66,6 +66,6 @@ Try entering these samples to see the system in action:
 ---
 
 ## 👥 Contributors
-- Mohamed Nawran, Khalid, Mohamed Afrath (mohamednaseermohamedafrath@gmail.com)
+- Mohamed Nawran(mhdnawran4@gmail.com), Khalid, Mohamed Afrath (mohamednaseermohamedafrath@gmail.com)
 
 
